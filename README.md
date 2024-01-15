@@ -1,5 +1,5 @@
 Hi there,
-I am professional Front-End Web Developer and Graphic Designer with over 5 years of hands on experience. I'm an EXPERT in converting PSD, XD, Figma, Sketch Designs to HTML, CSS, Bootstrap, JS and creating UI/UX for Web based application & mobile apps and other graphic assets. I have become very confident over the way I used to work.
+I am Muhammad Hashir, a Software Engineering Graduate and a Gold Medalist. I am professional Front-End Web Developer with over 5 years of hands on experience. I'm an EXPERT in converting PSD, XD, Figma, Sketch Designs to HTML, CSS, Bootstrap, JS and creating UI/UX for Web based application & mobile apps and other graphic assets. I have become very confident over the way I used to work.
 
 Front-End Development:
 I am proficient in HTML, CSS, bootstrap, Javascript, Jquery & React JS, Git & Github and I always ensure that my code is well structured, clean, and optimized for performance.
