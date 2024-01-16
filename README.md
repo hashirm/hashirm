@@ -1,12 +1,42 @@
-Hi there 👋,
-I am Muhammad Hashir, a Software Engineering Graduate and a Gold Medalist. I am professional Front-End Web Developer with over 5 years of hands on experience. I'm an EXPERT in converting PSD, XD, Figma, Sketch Designs to HTML, CSS, Bootstrap, JS and creating UI/UX for Web based application & mobile apps and other graphic assets. I have become very confident over the way I used to work.
+<h1>Hello there 👋, I'm Muhammad Hashir</h1>
+<h3>Front-End Developer and Gold Medalist🥇</h3>
+<ul>
+<li>🛠️I am currently working using HTML, CSS, Bootstrap, Tailwind, Javascript, Jquery, React JS.</li>
+<li>🌱I am currently learning PHP, MYSQL, Node JS, Mongo db</li>
+<li>💬Ask me about HTML, CSS3, Bootstrap, Javascript, Jquery, React JS</li>
+</ul>
 
-Front-End Development:
-I am proficient in HTML, CSS, bootstrap, Javascript, Jquery & React JS, Git & Github and I always ensure that my code is well structured, clean, and optimized for performance.
-What I do as a front end developer :
--PSD, xd, Figma to pixel perfect responsive HTML, CSS, Bootstrap, Javascript.
--Full website design
--Landing page design
--Amendments to the existing website design
--HTML Email Signature / HTML Email Template / HTML Email Newsletter
+<table>
+	<thead>
+		<tr>
+			<th>Portfolio</th>
+			<th>My CV</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="https://www.trialphatechnologies.com/iflexiblelimited">🌍</a></td>
+			<td>📜</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>ToolSet</h3>
+<table>
+
+	<tbody>
+		<tr>
+			<td>Front-End Dev</td>
+			<td> <img width="50" height="50" src="https://i.ibb.co/PwyGLZp/html-5.png" alt="HTML"/> <img width="50" height="50" src="https://i.ibb.co/1G429GT/css-3.png" alt="CSS3"/> <img width="50" height="50" src="https://i.ibb.co/SPJGtcd/bootstrap-1.png" alt="Bootstrap"/> <img width="50" height="50" src="https://i.ibb.co/ZMDGMPm/tailwind-css3232-logowik-com.webp" alt="Tailwind"/> <img width="50" height="50" src="https://i.ibb.co/12ggX2S/js.png" alt="Javascript"/><img width="50" height="50" src="https://i.ibb.co/djfc1MV/jquery.png" alt="Jquery"/> <img width="50" height="50" src="https://i.ibb.co/m4b16G9/atom.png" alt="React JS"/>
+</td>
+		</tr>
+		<tr>
+			<td>Graphic Designer</td>
+			<td></td>
+		</tr>
+	
+	</tbody>
+</table>
+
+
  
