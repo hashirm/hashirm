@@ -57,7 +57,6 @@
 	      <img width="50" height="50" src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" alt="Figma"/>
 	      <img width="50" height="50" src="https://w7.pngwing.com/pngs/403/458/png-transparent-adobe-xd-hd-logo-thumbnail.png" alt="xd"/>
 	      <img width="50" height="50" src="https://vectorseek.com/wp-content/uploads/2021/02/Illustrator-Logo-Vector.jpg" alt="AI"/>
-	     
       </td>
     </tr>
   </tbody>
