@@ -15,7 +15,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="https://www.trialphatechnologies.com/iflexiblelimited">🌍</a></td>
+			<td><a href="https://mhashir-portfolio.netlify.app">🌍</a></td>
 			<td><a href="https://drive.google.com/file/d/1OuDdL1Zy5Pa0KmgV4gftcVgaNVEP-mAa/view?usp=drive_link">📜</a></td>
 		</tr>
 	</tbody>
