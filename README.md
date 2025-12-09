@@ -1,9 +1,9 @@
 <h1>Hello there 👋, I'm Muhammad Hashir</h1>
 <h3>Front-End Developer and Gold Medalist🥇</h3>
 <ul>
-<li>🛠️I am currently working using HTML, CSS, Bootstrap, Tailwind, Javascript, Jquery, React JS.</li>
-<li>🌱I am currently learning PHP, MYSQL, Node JS, Mongo db</li>
-<li>💬Ask me about HTML, CSS3, Bootstrap, Javascript, Jquery, React JS</li>
+<li>🛠️ I am currently working using HTML, PUG, SASS(SCSS), Bootstrap, Tailwind, Javascript, Jquery, React JS.</li>
+<li>🌱 I am currently learning NEXT JS, Node JS, Mongo db</li>
+<li>💬 Ask me about HTML, PUG, SASS, CSS3, Bootstrap, Javascript, Jquery, React JS</li>
 </ul>
 
 <table>
