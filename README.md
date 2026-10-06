@@ -30,10 +30,10 @@
         <img width="50" height="50" src="https://i.ibb.co/PwyGLZp/html-5.png" alt="HTML" />
         <img width="50" height="50" src="https://i.ibb.co/1G429GT/css-3.png" alt="CSS3" />
         <img width="50" height="50" src="https://i.ibb.co/SPJGtcd/bootstrap-1.png" alt="Bootstrap" />
-        <img width="50" height="50" src="https://i.ibb.co/ZMDGMPm/tailwind-css3232-logowik-com.webp" alt="Tailwind" />
-        <img width="50" height="50" src="https://i.ibb.co/12ggX2S/js.png" alt="Javascript" />
-        <img width="50" height="50" src="https://i.ibb.co/djfc1MV/jquery.png" alt="Jquery" />
+        <img width="50" height="50" src="https://i.ibb.co/ZMDGMPm/tailwind-css3232-logowik-com.webp" alt="Tailwind" />		  
+        <img width="50" height="50" src="https://i.ibb.co/dsMjtdSV/next-js.png" alt="next js" />
         <img width="50" height="50" src="https://i.ibb.co/m4b16G9/atom.png" alt="ReactJS" />
+        <img width="50" height="50" src="https://i.ibb.co/djfc1MV/jquery.png" alt="Jquery" />
       </td>
     </tr>
     <tr>
