@@ -56,7 +56,7 @@
       <td>
 	      <img width="50" height="50" src="https://blogs.incyclesoftware.com/hs-fs/hubfs/Git%20Logo.jpg?width=716&name=Git%20Logo.jpg" alt="git"/>
 	      <img width="50" height="50" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github"/>
-		 <img width="50" height="50" src="https://i.ibb.co/0y0GYvwX/azure-devops.png" alt="azure-devops">
+		 <img width="70" height="50" src="https://i.ibb.co/0y0GYvwX/azure-devops.png" alt="azure-devops">
       </td>
     </tr>
     <tr>
