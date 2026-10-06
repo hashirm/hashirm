@@ -36,6 +36,14 @@
         <img width="50" height="50" src="https://i.ibb.co/djfc1MV/jquery.png" alt="Jquery" />
       </td>
     </tr>
+	  <tr>
+		  <td>Databases</td>
+		  <td>
+			<img width="50" height="50" src="https://i.ibb.co/QFqNtm9J/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongo db"/>
+			<img width="50" height="50" src="https://i.ibb.co/chGPDhJR/images-1.png" alt="mysql"/>
+			<img width="50" height="50" src="https://i.ibb.co/jv7QbLs5/postgresql-logo.png" alt="postgresql-logo">
+		  </td>
+	  </tr>
     <tr>
       <td>IDE</td>
       <td>
